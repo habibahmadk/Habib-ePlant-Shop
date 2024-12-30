@@ -4,7 +4,7 @@ Welcome to E-commerce website, where green meets serenity! This project is a sma
 
 ## 🚀 Live Demo
 
-Check out the live demo of the website [here](https://habibahmadk.github.io/habib-eplantShopping).
+Check out the live demo of the website [here](https://arslanr369.github.io/React-e-plantShopping).
 
 ## 🌟 Features
 
